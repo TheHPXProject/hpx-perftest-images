@@ -32,4 +32,4 @@ The Jenkins job pushes with a deploy key that has write access to this repositor
 
 ## License
 
-Distributed under the Boost Software License, Version 1.0. See [LICENSE](LICENSE).
+Distributed under the Boost Software License, Version 1.0. See [LICENSE_1_0.txt](LICENSE_1_0.txt).
