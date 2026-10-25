@@ -2,4 +2,5 @@
 
 Pull request [#7855](https://github.com/TheHPXProject/hpx/pull/7855)
 
+- [Build 6165](6165/README.md)
 - [Build 6148](6148/README.md)
